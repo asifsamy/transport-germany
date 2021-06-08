@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/transport-germany/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/transport-germany/static/js/main.f5a827ef.chunk.js",
+    "main.js.map": "/transport-germany/static/js/main.f5a827ef.chunk.js.map",
+    "runtime-main.js": "/transport-germany/static/js/runtime-main.319e774a.js",
+    "runtime-main.js.map": "/transport-germany/static/js/runtime-main.319e774a.js.map",
+    "static/js/2.965dd930.chunk.js": "/transport-germany/static/js/2.965dd930.chunk.js",
+    "static/js/2.965dd930.chunk.js.map": "/transport-germany/static/js/2.965dd930.chunk.js.map",
+    "static/js/3.271977f2.chunk.js": "/transport-germany/static/js/3.271977f2.chunk.js",
+    "static/js/3.271977f2.chunk.js.map": "/transport-germany/static/js/3.271977f2.chunk.js.map",
+    "index.html": "/transport-germany/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/transport-germany/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.965dd930.chunk.js.LICENSE.txt": "/transport-germany/static/js/2.965dd930.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.319e774a.js",
+    "static/js/2.965dd930.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.f5a827ef.chunk.js"
+  ]
+}
